@@ -1,5 +1,5 @@
 <!-- Profile Header with Banner -->
-![Header](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/banner.png)
+![Header](https://github.com/hpygirlhayn/hpygirlhayn/blob/main/banner.png)
 
 <h1 align="center">👋 Hey there, I'm Hadjer</h1>
 <h3 align="center">💻 Computer Science Student | Developer | Tech Enthusiast</h3>
